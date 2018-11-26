@@ -1,0 +1,11 @@
+app-root-menu {
+  float: left;
+  width: 100px;
+  background: lightblue;
+}
+app-root-app1 {
+  background: lightcoral;
+}
+app-root-app2 {
+  background: lightcyan;
+}
